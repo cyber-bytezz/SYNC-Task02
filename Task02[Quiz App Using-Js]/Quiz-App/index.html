@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coding Quiz</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Programming Quiz</h1>
+    <div id="instructions">
+      <p>Instructions: Answer the following questions by selecting the correct option.</p>
+    </div>
+    <div id="question-container">
+      <div id="question">Question</div>
+      <div id="options">
+        <button class="option"></button>
+        <button class="option"></button>
+        <button class="option"></button>
+        <button class="option"></button>
+      </div>
+    </div>
+    <div id="submit-container">
+      <button id="submit">Submit</button>
+    </div>
+  </div>
+  
+  <div class="popup-container" id="congratulations-popup">
+    <div class="popup">
+      <h2>Congratulations!</h2>
+      <p>You Scored <span id="score"></span> Out Of <span id="total"></span>!</p>
+      <h3>For Answers Contact Me</h3>
+      <button id="contact-button">Contact Me</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
