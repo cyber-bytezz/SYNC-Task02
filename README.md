@@ -1,4 +1,4 @@
-# SYNC-Task02
+# SYNC Internship-Task02
 Task-02 Quiz App
 
 # JavaScript Quiz App
