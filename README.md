@@ -18,7 +18,7 @@ Introducing my JavaScript Quiz App, a dynamic and engaging application developed
 - CSS
 
 ## Installation
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/cyber-bytezz/SYNC-Task02.git`
 2. Open the project in your preferred code editor.
 
 ## Usage
